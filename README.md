@@ -11,7 +11,7 @@
 <br>
 
 - 🔭 I’m currently working on the Old School Project repos
-- 📚 I'm learning how to develop Next.js apps
+- 📚 I'm learning the Rails framework
 - 👯 I’m looking to collaborate on Java and Next.js projects
 
 - 🥅 2023 Goals: Become expert in a Tech Stack and release my personal projects
