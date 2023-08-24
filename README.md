@@ -59,15 +59,15 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643517438/34691/cuphead_running.gif?1643517438" width="24"/> My Stats </h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvacco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suvacco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=suvacco&theme=codestackr&hide_border=true&card_width=450" height="150" alt="streak graph " />
+  <img src="https://github-readme-stats.vercel.app/api?username=publicstaticyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=publicstaticyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=publicstaticyan&theme=codestackr&hide_border=true&card_width=450" height="150" alt="streak graph " />
 </div>
 <br>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" width="24"/> Feel free to connect with me </h2>
 <br>
-<a href="https://github.com/Suvacco"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/publicstaticyan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yan-nalon-ab27a4232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/Suvacco"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
 <br>
