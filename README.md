@@ -10,12 +10,12 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="30"/> Creating bugs since I was 9 y/o </h2>
 <br>
 
-- 🔭 I’m currently working on the Old School Project repos
-- 📚 I'm learning the Rails framework
-- 👯 I’m looking to collaborate on Java and Next.js projects
+- 🔭 <em>I’m</em> currently working on the Old School Project repos
+- 📚 <em>I’m</em> learning the Spring framework
+- 👯 <em>I’m</em> looking to collaborate on Java and React projects
 
-- 🥅 2023 Goals: Become expert in a Tech Stack and release my personal projects
-- 🎲 Fun fact: I began coding through Minecraft!
+- 🥅 <em>2024 Main Goal:</em> Release one of my crazy programming ideas 🤪
+- 🎲 <em>Fun Fact:</em> I began coding through Minecraft!
 
 <br>
 
