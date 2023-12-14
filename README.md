@@ -1,9 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, what's up?</h1>
 <br>
 <p><em>Welcome to my profile!</em></p>
-<p><em>I'm a self-taught fullstack developer based in <img src="https://user-images.githubusercontent.com/21000046/235337278-a74a6fb7-c730-4ea6-9f2a-87f30111d2ff.png" width="14"/> <strong>Belo Horizonte, Brazil</strong></em></p>
+<p><em>I'm Yan, a self-taught fullstack developer based in <img src="https://user-images.githubusercontent.com/21000046/235337278-a74a6fb7-c730-4ea6-9f2a-87f30111d2ff.png" width="14"/> <strong>Belo Horizonte, Brazil</strong></em></p>
 <br>
-<p><em>I like to build stuff with code 👾</em></p>
 <p><em>Have a look around, cheers!</em></p>
 <br>
 
